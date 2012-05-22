@@ -1,0 +1,10 @@
+pygments: true
+
+url: http://symfony-tr.github.com/
+title: Symfony TR
+description: Some description comes here!
+author: Symfony TR
+email: symfony-2-tr@googlegroups.com
+paginate: 5
+disqus_short_name: symfonytr
+google_analytics_tracking_id: UA-31965533-1

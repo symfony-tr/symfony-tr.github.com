@@ -1,0 +1,10 @@
+@import url(http://fonts.googleapis.com/css?family=Lato);
+body{background-color:#fff;color:#4D4D4D;font:15px/24px 'Lato',Arial,sans-serif;}
+p,h1,h2,h3{margin-bottom:20px;}
+p{font:inherit;}
+a,a:link,a:visited,a:active{color:#000;text-decoration:none;}
+::-moz-selection,::selection{background:#777777;color:#fff;text-shadow:none;}
+time{color:#CCC;}
+pre.prettyprint{padding:8.5px;border:1px solid #CCC;}
+.dsq-trackback-url,#dsq-subscribe{display:none;}
+footer span{float:right;}
