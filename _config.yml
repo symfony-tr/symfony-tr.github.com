@@ -2,7 +2,7 @@ pygments: true
 
 url: http://symfony-tr.github.com/
 title: Symfony TR
-description: Some description comes here!
+description: Symfony2 Belgeleri Turkcelestirme Projesi
 author: Symfony TR
 email: symfony-2-tr@googlegroups.com
 paginate: 5
