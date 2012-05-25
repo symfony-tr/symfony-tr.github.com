@@ -77,6 +77,8 @@ karşılaşacaksınız.
 Eğer bu söylediklerimiz hakkında en küçük bir fikriniz yok ancak ingilizce
 bilginize güveniyorsanız yakında sizler içinde bu projeye nasıl 
 katkı vereceğinizi açıklayan bir sayfamız olacaktır. Buradan
-nasıl destek vereceğinizi öğrenebilirsiniz.
+nasıl destek vereceğinizi öğrenebilirsiniz. Ancak şimdilik
+aklınıza takılan tüm soruları [google-group](https://groups.google.com/forum/?fromgroups#!forum/symfony-2-tr) 
+üzerinden sorabilirsiniz. 
 
 
