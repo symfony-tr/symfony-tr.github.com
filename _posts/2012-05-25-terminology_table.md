@@ -11,7 +11,4 @@ konusunda çok daha iyi fikirleriniz var ise bunlarıda değerlendirip önceden
 çevirilmiş belgeleri bu terimlere göre de düzenleyebiliriz, düzenleyebilirsiniz.
 Terimler harf sırasına göre değildir.
 
-| name | age | sex |
-| joan | 24 | f |
-| archie | 29 | m |
-| bella | 45 | f |
+
