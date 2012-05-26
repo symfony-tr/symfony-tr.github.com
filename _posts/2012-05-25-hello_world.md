@@ -81,5 +81,3 @@ nasıl destek vereceğinizi öğrenebilirsiniz. Ancak şimdilik
 aklınıza takılan tüm soruları [google-group](https://groups.google.com/forum/?fromgroups#!forum/symfony-2-tr) 
 üzerinden sorabilirsiniz. 
 
-Option 1                  : Description 1
-Option 2                  : Descrtiption 2
