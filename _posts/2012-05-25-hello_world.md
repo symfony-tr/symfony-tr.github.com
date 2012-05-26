@@ -81,4 +81,7 @@ nasıl destek vereceğinizi öğrenebilirsiniz. Ancak şimdilik
 aklınıza takılan tüm soruları [google-group](https://groups.google.com/forum/?fromgroups#!forum/symfony-2-tr) 
 üzerinden sorabilirsiniz. 
 
++-----------------+----------+
+| dddede          | dedsds   |
++-----------------+----------+
 
