@@ -1,0 +1,11 @@
+---
+layout: page
+title: İletişim
+---
+
+{% capture contact_content %}
+    {% include contact_markdown.md %}
+{% endcapture %}
+{{ contact_content | unindent | markdownify }}
+
+

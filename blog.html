@@ -1,0 +1,30 @@
+---
+layout: default
+title: Homepage
+---
+<section id="blog-posts">
+    {% for post in site.posts %}
+    <article>
+        <header>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <time datetime="{{ post.date | datetime | date_to_xmlschema }}" pubdate>{{ post.date | date_to_string }}</time>
+        </header>
+        {{ post.content }}
+    </article>
+    {% endfor %}
+</section>
+
+<nav>
+    <ul class="pager">
+        {% if paginator.previous_page %}
+        {% if paginator.previous_page == 1 %}
+        <li class="previous"><a href="/">Previous</a></li>
+        {% else %}
+        <li class="previous"><a href="/page{{paginator.previous_page}}">Newer</a></li>
+        {% endif %}
+        {% endif %}
+        {% if paginator.next_page %}
+        <li class="next"><a href="/page{{paginator.next_page}}">Older</a></li>
+        {% endif %}
+    </ul>    
+</nav>

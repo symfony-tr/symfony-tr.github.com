@@ -1,0 +1,11 @@
+---
+layout: page
+title: Katkı Sağlamak
+---
+
+{% capture contribute_content %}
+    {% include contribute_markdown.md %}
+{% endcapture %}
+{{ contribute_content | unindent | markdownify }}
+
+

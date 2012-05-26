@@ -1,0 +1,11 @@
+---
+layout: page
+title: Terimler
+---
+
+{% capture terms_content %}
+    {% include terminology_markdown.md %}
+{% endcapture %}
+{{ terms_content | unindent | markdownify }}
+
+
