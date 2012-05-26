@@ -57,43 +57,44 @@ genelde hüsranla sonuçlanır.
 
 İyi geliştirici olmak için süper derecede yabancı dil bilmek çok da gerekli
 değildir. Gereklidir ancak şart değildir. İyi geliştiricilik başka bir şey.
-Bu yüzden bizde bu noktada eğer Symfony2 gibi sizi gerçek bir HTTP makinesi
-tanıştırma noktasında bir yardımımız dokunursa ne güzel. 
+Bu yüzden bizde eğer Symfony2 gibi sizi gerçek bir HTTP makinesi ile
+tanıştırma noktasında size bir yardımımız dokunursa ne güzel. 
 
 Symfony2 gibi üzerinde dünyada şu anda insan zekasının bulup geliştirdiği
 en iyi programlama teknolojileri ve yapılarının en iyi örneklerini kendi
-bünyesinde toplayan bir sistemi Türk geliştiricilere neden -en azından
+bünyesinde toplayan bir sistemi, Türk geliştiricilere neden -en azından
 belge bazında - tanıtmayalım ki dedik ve bu işe girdik. Symfony2 dörtdört'lük
 bir framework den ziyade aynı zamanda bir ekosistemdir. Bunu zamanla 
-zaten anlayacaksınız. Bir başka güzellikte bu belgelerden öğrenecekleriniz
+anlayacaksınız. Bir başka ilginç şey de bu belgelerden öğrenecekleriniz
 ile ileride belki Django, RoR, Hibernate gibi başka dillerde geliştirilmiş
 çok daha ileri düzey uygyulama geliştirme sistemlerine de geçişiniz 
 oldukça kolay olacak. Çünki Symfony2 bu sistemlerin tüm özelliklerini
-ve olaylara yaklaşım mantıklarını kendisine kopyalamıştır.
+ve olaylara yaklaşım mantıklarını kendisine birebir kopyalamıştır.
 
-En son olarak da bu kadar reklamdan sonra. Bir sistemi öğrenmenin en temelinde
+En son olarak da bu kadar reklamdan sonra; bir sistemi öğrenmenin en temelinde
 o sistemin *resmi dökümanlarını* okumakla iyi bir şekilde anlaşılabileceği
 inancında olduğumuzdan da bu işe giriştik. Symfony2'nin oldukça iyi bir 
 şekilde organize edilmiş dünya üzerinde yüzlerce gönüllü -bizler gibi- 
 katkıcının sağladığı bir dökümantasyonu vardır. Bunu dilimize kazandırmak
-heyecan verici.
+heyecan bizce verici.
   
-### Bu belgeleri türkçeye çevireceksinizde ne olacak?
+### Bu Belgeleri Türkçeye Çevireceksiniz de Ne Olacak?
 
 Eğer web tabanlı uygulamalar geliştiriyorsanız ya da bu işlere kıyısından
-köşesinden hobi amaçlı bile olsa bulaştıysanız bilirsiniz, bazen web 
-uygulamaları geliştirmek eziyettir.Framework kullansanız bile. Ancak
-Symfony2 'nin yapısı gereği şu ana kadar geliştirilmiş "iyi" anlamdaki
-pek çok yaklaşımı ve teknolojiyi bünyesinde barındırdığı için *öğrenmeye
-ve öğretmeye değer* olarak görüyoruz. Belki bu çalışmamız ile pek çok 
-kişiye Symfony2 kullanmaya özendirebilir, pek çok kişinin karmaşık 
-uygulamalar geliştirmeyi öğrenmesini bir nebze olsun sağlayabiliriz 
-dedik. Amacımız tamamen budur. Ve bundan da hiç bir karşılık beklemiyoruz.
+köşesinden, hobi amaçlı bile olsa bulaştıysanız, bilirsiniz, genelde iyi web 
+uygulamaları geliştirmek cidden **eziyettir**. Bunun için framework 
+kullansanız bile. Ancak Symfony2 'nin yapısı gereği şu ana kadar 
+geliştirilmiş "iyi" anlamdaki pek çok yaklaşımı ve teknolojiyi bünyesinde 
+barındırdığı için *öğrenmeye ve öğretmeye değer* olarak görüyoruz. 
+Belki bu çalışmamız ile pek çok kişiye Symfony2 kullanmaya özendirebilir, 
+pek çok kişinin karmaşık uygulamalar geliştirmeyi öğrenmesini bir nebze 
+olsun sağlayabiliriz dedik. Amacımız tamamen budur. Ve bundan da hiç bir 
+karşılık -sizin bu projeye gönülü katkınız dışında- beklemiyoruz.
 
-### Çok fena gaza geldim. Size nasıl yardım edebilirim.
+### Çok Fena Gaza Geldim. Bu Projeye Nasıl Yardım Edebilirim.
 
-Projenin bir adet [google-groups](https://groups.google.com/forum/?fromgroups#!forum/symfony-2-tr) 
-üzerinde bir gurubu var. Buraya katılabilirsiniz. Burası projenin tartışma
+Projenin [google-groups](https://groups.google.com/forum/?fromgroups#!forum/symfony-2-tr) 
+üzerinde bir gurubunu oluşturduk. Buraya katılabilirsiniz. Burası projenin tartışma
 alanıdır. Belge çevirileri ile ilgili herşeyi burada paylaşabilirsiniz.
 
 Proje [GitHub üzerinde geliştirilmektedir](http://github.com/symfony-tr/symfony-docs/tree/2.0/)
@@ -103,16 +104,18 @@ Symfony2'nin tüm belgeleri reStructuredText üzerinden yazıldığından bu
 formattada yazmayı birazcık bilmeniz gerekli.
 
 Ve son olarak da [Shakespeare](en.wikipedia.org/wiki/William_Shakespeare)
-eserlerini çevirecek kadar "olmasa da" bir ingilizce bilgisine ihtiyacınız var.
+eserlerini çevirecek kadar "olmasa da" bir ingilizce bilgisine ihtiyacımız var.
 
 Bunların hepsi sizde varsa **sizi aramızda görmekten çok mutlu olacağız.**
 Eğer Symfony2 ile uygulama geliştirme tecrübeniz varsa bu çok daha iyi olacaktır.
-Çüğnkü belgeleri türkçeye çevirirken Symfony2'ye özgü pek çok terim ile
-karşılaşacaksınız. Bu terimlere [buradan](/terminology.html) erişebilirsiniz.
+Çünkü belgeleri Türkçeye çevirirken Symfony2'ye özgü pek çok terim ile
+karşılaşacaksınız. Bu terimlerin bazılarına [buradan](/terminology.html) erişebilirsiniz.
 
-Eğer bu söylediklerimiz hakkında en küçük bir fikriniz yok ancak ingilizce
-bilginize güveniyorsanız yakında sizler içinde bu projeye nasıl 
-katkı vereceğinizi açıklayan bir sayfamız olacak. Buradan
-nasıl destek vereceğinizi öğrenebilirsiniz. Ancak şimdilik
-aklınıza takılan tüm soruları [google-groups](https://groups.google.com/forum/?fromgroups#!forum/symfony-2-tr) 
+Eğer bu söylediklerimiz hakkında (Rst,Git, forklama vs..) en küçük bir fikriniz 
+yok ancak ingilizce bilginize güveniyorsanız yakında sizler içinde bu projeye nasıl 
+katkı vereceğinizi açıklayan bir sayfamız olacak. Buradan nasıl destek vereceğinizi 
+öğrenebilirsiniz. Ancak şimdilik aklınıza takılan tüm soruları [google-groups](https://groups.google.com/forum/?fromgroups#!forum/symfony-2-tr) 
 üzerinden sorabilirsiniz. 
+
+Buraya kadar okuduğunuza göre demekki bu proje ile ilgilendiniz. E hadi!.
+Ne duruyorsunuz :)
