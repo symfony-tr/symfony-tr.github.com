@@ -97,7 +97,7 @@ Projenin [google-groups](https://groups.google.com/forum/?fromgroups#!forum/symf
 üzerinde bir gurubunu oluşturduk. Buraya katılabilirsiniz. Burası projenin tartışma
 alanıdır. Belge çevirileri ile ilgili herşeyi burada paylaşabilirsiniz.
 
-Proje [GitHub üzerinde geliştirilmektedir](http://github.com/symfony-tr/symfony-docs/tree/2.0/)
+Proje [GitHub üzerinde geliştirilmektedir](https://github.com/symfony-tr/symfony-docs-tr/tree/2.0)
 Dolayısıyla yardımcı olmanız için öncelikle bu repoyu forklamanız gereklidir.
 
 Symfony2'nin tüm belgeleri reStructuredText üzerinden yazıldığından bu 
