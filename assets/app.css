@@ -1,5 +1,5 @@
-@import url(http://fonts.googleapis.com/css?family=Lato);
-body{background-color:#fff;color:#4D4D4D;font:15px/24px 'Lato',Arial,sans-serif;}
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic&amp;subset=latin,latin-ext,cyrillic);
+body{background-color:#fff;color:#4D4D4D;font:15px/24px 'PT Sans',Arial,sans-serif;}
 p,h1,h2,h3{margin-bottom:20px;}
 p{font:inherit;}
 a,a:link,a:visited,a:active{color:#A52A2A;text-decoration:none;}

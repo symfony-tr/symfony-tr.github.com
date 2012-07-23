@@ -1,17 +1,17 @@
 
 Symfony2 Belgelerini çevirirken sık karşılaşacağınız terimleri ve
-öngördüğümüz türkçe karşılıklarını aşağıdaki listede bulabilirsiniz.
-Elbette bu terimlerin daha iyi "türkçe" karşılıklarını biliyorsanız ya da
-daha iyi önerileriniz var ise buda bizi sevindirecektir. 
+öngördüğümüz Türkçe karşılıklarını aşağıdaki listede bulabilirsiniz.
+Elbette bu terimlerin daha iyi "Türkçe" karşılıklarını biliyorsanız ya da
+daha iyi önerileriniz var ise bu da bizi sevindirecektir. 
 
-*Not* : Bazı terimlerin türkçe'ye çevrilmesi daha kötü sonuçlar verdiğinden
+*Not* : Bazı terimlerin Türkçe'ye çevirilmesi daha kötü sonuçlar verdiğinden
 olduğu gibi bırakılmıştır. Bu terimler **bu şekilde** ifade edilmiştir.
-Çeviri yaparken tam türkçe karşılığı *anlamı karşılamaz ise* bu durumda
-ifadenin "orijinal terim (türkçe çevirisi)" şeklinde yazmanız daha
+Çeviri yaparken Türkçe karşılığı *tam anlamı karşılamaz ise* bu durumda
+ifadeyi "orijinal terim (Türkçe çevirisi)" şeklinde yazmanız daha
 iyi olacaktır.
 
-Belgelerin çevirisi esnasında yeni terimleride bu tabloya ekleyenecektir.
-sizinde bulduğunuz ve önerdiklerinizi yorum olarak iletebilirsiniz.
+Belgelerin çevirisi esnasında yeni terimler de bu tabloya ekleyenecektir.
+Siz de bulduğunuz terimleri ve çeviri önerilerizi yorum olarak iletebilirsiniz.
 
 
 ``Orijinal Terim``| ``Çevirisi``
@@ -38,7 +38,7 @@ sizinde bulduğunuz ve önerdiklerinizi yorum olarak iletebilirsiniz.
 ``client ``| istemci
 ``distrubition ``| dağıtım
 ``template``| şablon
-``layout ``| şablon , plan , yerleşim
+``layout ``| şablon, plan, yerleşim
 ``field ``| alan
 ``option ``| seçenek
 ``feature ``| özellik
